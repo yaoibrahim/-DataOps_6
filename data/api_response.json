@@ -1,0 +1,465 @@
+{
+    "search_metadata": {
+        "id": "6750aa4c2c566d917b585743",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/be0b70d3889c2d88/6750aa4c2c566d917b585743.json",
+        "created_at": "2024-12-04 19:15:24 UTC",
+        "processed_at": "2024-12-04 19:15:24 UTC",
+        "google_jobs_url": "https://www.google.com/search?q=developer&uule=w+CAIQICIGRnJhbmNl&udm=8",
+        "raw_html_file": "https://serpapi.com/searches/be0b70d3889c2d88/6750aa4c2c566d917b585743.html",
+        "total_time_taken": 1.32
+    },
+    "search_parameters": {
+        "q": "developer",
+        "engine": "google_jobs",
+        "location_requested": "France",
+        "location_used": "France",
+        "google_domain": "google.com"
+    },
+    "filters": [
+        {
+            "name": "Date posted",
+            "options": [
+                {
+                    "name": "Yesterday",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d03cAmQQlGh5fe_HjxA4UXBpU0XRdvJEWa6YxCMO_ePJ9huE5va6K8snIW25pk6K9UrrNsncvfR4soDGVMVwjn74tqtdwBbR1t0Cdcqa2o9tO5eVyGKH5rHlAMYCI4i_AAN5WhWAeDoEg-LpL5pBNwRiLc0AuPOpCdUamHVV4MPn2uOT5jh3-Nb7LMqqVITYDMuKbxik6LPKhMBxOLRDfNgQK5L7Ll3rNJoq6fGoZ2VkWJxCWSMWS2ilIvUfXrIUM5I3fzi133n3PiKFz0xwQpSu8jXcGpagbr9PQ7zBYDIUgSO6z",
+                        "q": "developer since yesterday"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=fdf7728f28b59cda&q=developer+since+yesterday&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d03cAmQQlGh5fe_HjxA4UXBpU0XRdvJEWa6YxCMO_ePJ9huE5va6K8snIW25pk6K9UrrNsncvfR4soDGVMVwjn74tqtdwBbR1t0Cdcqa2o9tO5eVyGKH5rHlAMYCI4i_AAN5WhWAeDoEg-LpL5pBNwRiLc0AuPOpCdUamHVV4MPn2uOT5jh3-Nb7LMqqVITYDMuKbxik6LPKhMBxOLRDfNgQK5L7Ll3rNJoq6fGoZ2VkWJxCWSMWS2ilIvUfXrIUM5I3fzi133n3PiKFz0xwQpSu8jXcGpagbr9PQ7zBYDIUgSO6z&udm=8&sa=X&ved=2ahUKEwi-h_nU6Y6KAxW0QTABHUtFJR4QkbEKegQIDhAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=developer+since+yesterday"
+                },
+                {
+                    "name": "Last 3 days",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dxYnuBISBgnKxDYhg8Es1VkuQeqVxyTMsRrpixkQlTmPj7giQRTXiRjpaudJQw1ycMuORsoqDHMx_RLrcze_iQWl_vF61T8I9DAqpCl30JyPhdgOo9KqcEK5u4OGZKJBT6TT30IwM1eX6XoduPnQtEYGty6HC0kTyWj-UCf4QN6TmFQPCNnedAe4BVMX1O41EttS1LBxFc6kmNMSwfUNMex0XDFW1mq3XtznL3ZeQTvbqbsCjsoEacrJWhJ9vIRisZSkvvU7N0AdX8mwuTHZCWZnTKttvRjmbaRuL_SZ-Ngmo5of-",
+                        "q": "developer in the last 3 days"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=fdf7728f28b59cda&q=developer+in+the+last+3+days&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dxYnuBISBgnKxDYhg8Es1VkuQeqVxyTMsRrpixkQlTmPj7giQRTXiRjpaudJQw1ycMuORsoqDHMx_RLrcze_iQWl_vF61T8I9DAqpCl30JyPhdgOo9KqcEK5u4OGZKJBT6TT30IwM1eX6XoduPnQtEYGty6HC0kTyWj-UCf4QN6TmFQPCNnedAe4BVMX1O41EttS1LBxFc6kmNMSwfUNMex0XDFW1mq3XtznL3ZeQTvbqbsCjsoEacrJWhJ9vIRisZSkvvU7N0AdX8mwuTHZCWZnTKttvRjmbaRuL_SZ-Ngmo5of-&udm=8&sa=X&ved=2ahUKEwi-h_nU6Y6KAxW0QTABHUtFJR4QkbEKegQIDhAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=developer+in+the+last+3+days"
+                },
+                {
+                    "name": "Last week",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d03cAmQQlGh5fe_HjxA4UXBpU0XRdvJEWa6YxCMO_ePKgLYz1OELZsSj_1-zflAqfvgvPmredJuTCEH-BDYXbFy8-Mt68JMI19zeltiunuo8H9gr-n9Wc3-9FmWDYZ7L6SZloj5KOkPhfX-6BpzoSd4Rf190iDIKJgPSPe_D68Dj7bITURRuudkmAKNRTHwFTfLEd8OF4wPO7AFs0JA1tvnsyuqHKAO4RSJkNLUDaIbHuN7oaCTlnGLX1ZKJNZyxIdkcu-e15rKuOr6vI4bAFTGZvRAB0yk8JAKrk_qX6GVZ7letI",
+                        "q": "developer in the last week"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=fdf7728f28b59cda&q=developer+in+the+last+week&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d03cAmQQlGh5fe_HjxA4UXBpU0XRdvJEWa6YxCMO_ePKgLYz1OELZsSj_1-zflAqfvgvPmredJuTCEH-BDYXbFy8-Mt68JMI19zeltiunuo8H9gr-n9Wc3-9FmWDYZ7L6SZloj5KOkPhfX-6BpzoSd4Rf190iDIKJgPSPe_D68Dj7bITURRuudkmAKNRTHwFTfLEd8OF4wPO7AFs0JA1tvnsyuqHKAO4RSJkNLUDaIbHuN7oaCTlnGLX1ZKJNZyxIdkcu-e15rKuOr6vI4bAFTGZvRAB0yk8JAKrk_qX6GVZ7letI&udm=8&sa=X&ved=2ahUKEwi-h_nU6Y6KAxW0QTABHUtFJR4QkbEKegQIDhAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=developer+in+the+last+week"
+                },
+                {
+                    "name": "Last month",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dJX7p-kvYxx1OdJHr-rlWEgRUFHK3hf1wP-D75eAVBw8pSioIy7QPL3o8VR0lQ8bUzrC4qV8X1K2AnUANuWM6iXHp5G1jafxuHCpPXk6i8m7Mog3e3HmyjNs4gtLq3mP9KWCPJdk0lMRZ72MrGLNIz-jnTmlbs7Mrl0tNlDaaxUm6v_RNYjdswOZBk1W1xKe7mZ1bYnGtzuc1VevSDm1x_RahLhrOcAv4tHql-plbgYH9JNe2N-YcWyOzOHZe23qJ13McDj-EVlZAJIsYejdS4vcR4mt8PB6DxKvVYNoihJSj1PaQ",
+                        "q": "developer in the last month"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=fdf7728f28b59cda&q=developer+in+the+last+month&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dJX7p-kvYxx1OdJHr-rlWEgRUFHK3hf1wP-D75eAVBw8pSioIy7QPL3o8VR0lQ8bUzrC4qV8X1K2AnUANuWM6iXHp5G1jafxuHCpPXk6i8m7Mog3e3HmyjNs4gtLq3mP9KWCPJdk0lMRZ72MrGLNIz-jnTmlbs7Mrl0tNlDaaxUm6v_RNYjdswOZBk1W1xKe7mZ1bYnGtzuc1VevSDm1x_RahLhrOcAv4tHql-plbgYH9JNe2N-YcWyOzOHZe23qJ13McDj-EVlZAJIsYejdS4vcR4mt8PB6DxKvVYNoihJSj1PaQ&udm=8&sa=X&ved=2ahUKEwi-h_nU6Y6KAxW0QTABHUtFJR4QkbEKegQIDhAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=developer+in+the+last+month"
+                }
+            ]
+        },
+        {
+            "name": "Job type",
+            "options": [
+                {
+                    "name": "Full time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dcj-f1BLffU7p72L-lEXNx6ilxPNCY-ePXPxTg2EawS7KgQt4ErN2BEURie8k9dtpeEfQMUpD1mGX4tsjku8OVq4gNb9NRaLh4j02ULF5-FgFhGyu9Dh43F05GVRWU0BBS-krhE56MnqDOyn0TYJke_YBn6yowQd4hPSBPSsW4t7zB0IBO9lHMtdqxgFcIQ1SSwlrD5eWV7_-7i0zcEFZQqorROaBq2Bf-L2kcJF04daNploanvFLKlVJMTrmS1z7JHoJn_oHhSP2b-6CSt3iXpc6jv8",
+                        "q": "developer full time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=fdf7728f28b59cda&q=developer+full+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dcj-f1BLffU7p72L-lEXNx6ilxPNCY-ePXPxTg2EawS7KgQt4ErN2BEURie8k9dtpeEfQMUpD1mGX4tsjku8OVq4gNb9NRaLh4j02ULF5-FgFhGyu9Dh43F05GVRWU0BBS-krhE56MnqDOyn0TYJke_YBn6yowQd4hPSBPSsW4t7zB0IBO9lHMtdqxgFcIQ1SSwlrD5eWV7_-7i0zcEFZQqorROaBq2Bf-L2kcJF04daNploanvFLKlVJMTrmS1z7JHoJn_oHhSP2b-6CSt3iXpc6jv8&udm=8&sa=X&ved=2ahUKEwi-h_nU6Y6KAxW0QTABHUtFJR4QkbEKegQIEBAD",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=developer+full+time"
+                },
+                {
+                    "name": "Part time",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dcj-f1BLffU7p72L-lEXNx6ilxPNCY-ePXPxTg2EawS4NT1g8rXV9q1WIvI_AKEEYpRMIOYAhN2KDrnUKjV5ocL1cs03NpUMfElAwtFOXuCQRv7qv7FcQy0PK7x6bljBdT-j4u4ACLMabaRSovdWJWwkQyul2GRhOwUiSzLyLUSBHoCjOMFjk1pCQSrKtUv9VOBEv1HGA1WtNdybbavLSQhFqyuSdwuqmuVpVLKVICz-77JJGZTzt94k02-L0J6_4hBygaX0CzPYes3lRcVt_paxj3pc",
+                        "q": "developer part time"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=fdf7728f28b59cda&q=developer+part+time&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dcj-f1BLffU7p72L-lEXNx6ilxPNCY-ePXPxTg2EawS4NT1g8rXV9q1WIvI_AKEEYpRMIOYAhN2KDrnUKjV5ocL1cs03NpUMfElAwtFOXuCQRv7qv7FcQy0PK7x6bljBdT-j4u4ACLMabaRSovdWJWwkQyul2GRhOwUiSzLyLUSBHoCjOMFjk1pCQSrKtUv9VOBEv1HGA1WtNdybbavLSQhFqyuSdwuqmuVpVLKVICz-77JJGZTzt94k02-L0J6_4hBygaX0CzPYes3lRcVt_paxj3pc&udm=8&sa=X&ved=2ahUKEwi-h_nU6Y6KAxW0QTABHUtFJR4QkbEKegQIEBAE",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=developer+part+time"
+                },
+                {
+                    "name": "Contract",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dKbjHw5ObFzXf4yuEMOuDSzUfPsxkfQE0MuCvVpJjwV-7GZ6ew2wl7U_fJxmdx165UnAMDcb9V0690BC_wVdseSpZkXOI0a_ZpMq176Sp8YtYR9yucahLyl3i89-VhIPon52_avkNjuodz7hEWIgO4rqnlgKbPpmzt-DPASSdAD1SA1EECVj-pcAGbVb5t2kdVhbVBCzEQ4KTEqJ96ZxBJzSnJCK2QySBCteZmkQMIBS9whKWJieDv7AG5XYJtQlnxktMSyTuBJKfJzWKc5Kgx-yD2UU",
+                        "q": "developer contract"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=fdf7728f28b59cda&q=developer+contract&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dKbjHw5ObFzXf4yuEMOuDSzUfPsxkfQE0MuCvVpJjwV-7GZ6ew2wl7U_fJxmdx165UnAMDcb9V0690BC_wVdseSpZkXOI0a_ZpMq176Sp8YtYR9yucahLyl3i89-VhIPon52_avkNjuodz7hEWIgO4rqnlgKbPpmzt-DPASSdAD1SA1EECVj-pcAGbVb5t2kdVhbVBCzEQ4KTEqJ96ZxBJzSnJCK2QySBCteZmkQMIBS9whKWJieDv7AG5XYJtQlnxktMSyTuBJKfJzWKc5Kgx-yD2UU&udm=8&sa=X&ved=2ahUKEwi-h_nU6Y6KAxW0QTABHUtFJR4QkbEKegQIEBAF",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=developer+contract"
+                },
+                {
+                    "name": "Internship",
+                    "parameters": {
+                        "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7d8hJh8W5JaQg6Huyfdvh9I3JhSqEnYR62MfdhGRUuk0Vgy3tfkp9p22aL2yN2P5d3sUXfo8eGNoH1ATHQTxj39YjNtbeuVvtUNrLaV3v_MwjTM9BtIm2JhSc3SDqB7xs2Sb-xQ1AmTAXaOUoJzeNd3SBNVgZ_D1RpBhb5hMo858wgx1phYaYUjO2U2-CN06zEmGVeyx5hSNvUl5Uz3P6bjf6DnLmNyu3FS_ag9EAqPzp_1wcjxGNlxOyvaXDMKf7Tsb396tP-42k5QU89m0m10mZNlKA",
+                        "q": "developer internship"
+                    },
+                    "link": "https://www.google.com/search?sca_esv=fdf7728f28b59cda&q=developer+internship&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7d8hJh8W5JaQg6Huyfdvh9I3JhSqEnYR62MfdhGRUuk0Vgy3tfkp9p22aL2yN2P5d3sUXfo8eGNoH1ATHQTxj39YjNtbeuVvtUNrLaV3v_MwjTM9BtIm2JhSc3SDqB7xs2Sb-xQ1AmTAXaOUoJzeNd3SBNVgZ_D1RpBhb5hMo858wgx1phYaYUjO2U2-CN06zEmGVeyx5hSNvUl5Uz3P6bjf6DnLmNyu3FS_ag9EAqPzp_1wcjxGNlxOyvaXDMKf7Tsb396tP-42k5QU89m0m10mZNlKA&udm=8&sa=X&ved=2ahUKEwi-h_nU6Y6KAxW0QTABHUtFJR4QkbEKegQIEBAG",
+                    "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=developer+internship"
+                }
+            ]
+        },
+        {
+            "name": "No degree",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7deDSvlpsTbrXZ9IP-EIzeTOebNfOOPraSkQjsMHsI_8W3c4Fy9a3ZlRXV7_bhU3AXO0xlL7w0cYrIbm9NzNe75PC_vaf6qGW7w7r1wh-cU8J2Y2khCEvs_5PvoWqWtQJysCr6sQ",
+                "q": "developer no degree"
+            },
+            "link": "https://www.google.com/search?sca_esv=fdf7728f28b59cda&q=developer+no+degree&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7deDSvlpsTbrXZ9IP-EIzeTOebNfOOPraSkQjsMHsI_8W3c4Fy9a3ZlRXV7_bhU3AXO0xlL7w0cYrIbm9NzNe75PC_vaf6qGW7w7r1wh-cU8J2Y2khCEvs_5PvoWqWtQJysCr6sQ&udm=8&sa=X&ved=2ahUKEwi-h_nU6Y6KAxW0QTABHUtFJR4QxKsJegQIERAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=developer+no+degree"
+        },
+        {
+            "name": "Remote",
+            "parameters": {
+                "uds": "ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfKlnFHUkxVOIS0Va7xkKG9Mod0gk4MhyozBNaTpz7Iz_WlvPAn0UlI7b5CnG6b9Gcpj5_evCUAuRdLJUi_7ulQdf0moh5hmFKgUwpWbgh4bpG2WKnQ",
+                "q": "developer remote"
+            },
+            "link": "https://www.google.com/search?sca_esv=fdf7728f28b59cda&q=developer+remote&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dCkH7jUOA-VsrzXzgx3zlfKlnFHUkxVOIS0Va7xkKG9Mod0gk4MhyozBNaTpz7Iz_WlvPAn0UlI7b5CnG6b9Gcpj5_evCUAuRdLJUi_7ulQdf0moh5hmFKgUwpWbgh4bpG2WKnQ&udm=8&sa=X&ved=2ahUKEwi-h_nU6Y6KAxW0QTABHUtFJR4QxKsJegQIDxAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&q=developer+remote"
+        }
+    ],
+    "jobs_results": [
+        {
+            "title": "IS Developer",
+            "company_name": "ENGIE",
+            "location": "Courbevoie, France",
+            "via": "Engie.com",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=developer&htidocid=UKpFPBbF7ba8GMvEAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBQF0L2foMsDN9FEBBcdtZY6uPgBJQmPpCXmhrxYuvnr4hlO8202_YtuPHNE5kJ7esCSsCkuEBJ1gI-8uoRas5y1FonKSzV1dMrhrZHYYtETrPwbJJjCOZrKw_F0WFROfrtun13f0pjoik-xPGPkHd2LSY5_RJ6E9YEAAAA&shmds=v1_AXX-3kHF_2ujj_foRSqQHZbZc76cwfVx5_ybfDxG-GtbXfLTdw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=UKpFPBbF7ba8GMvEAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6750aa4c2c566d917b585743/images/f6f3b478fe26a6d8b64de66638ab2be6b1ff4fe7ca068c864dec7cd7d5631200.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "IS Developer About US (GEMS):ENGIE Global Energy Management & Sales (GEMS) provides energy supply solutions and risk management services to support its clients through their decarbonization journey, while optimizing ENGIE\u2019s assets and contributing to value creation. ENGIE is a global reference in low-carbon energy and services with a leading energy management business, piloted by its entity \"Global Energy Management & Sales\" who built its savoir-faire managing the Group\u2019s large and diverse asset portfolio over 20+ years. 3,300 employees around the world develop our solutions, through +20 international business platforms. We cover the full energy mix: renewable and thermal power, natural gas & LNG, biomass, environmental products. Our experts provide tailor made solutions based on a wide range of savoir-faire in energy management with a strong focus on decarbonation and decentralization.Our +120,00 clients span the entire value chain: producers, asset developers, financial players, utilities, distributors and industrials. Our global reach and strong local presence enable us to offer these diverse clients tailor-made services and respond to rapid changes in mature or emerging markets alike. Our 4 expertises:\u2022 Asset management\u2022 Energy transition services\u2022 Energy supply & global commodities\u2022 Risk management & market access At GEMS we encourage breakthrough results, team spirit, curiosity and innovation while preserving the right work/life balance for you. More info on GEMS Hub (https://gems.engie.com) or LinkedIn (https://www.linkedin.com/company/engie-global-energy-management-solutions).Context:Within the IS Expertise Center (EC IS) organization, The trading and sales tools (TST) delivery center is in charge of the following scope of applications for GEM :Markets connectivity servicesAutomated trading system platformCurves building & broadcasting and displayPre-trade pricing service & IT quant transversal developmentsDigital platform & clients/sales/traders workflows automationSales platform leveraging on Salesforce solution Trader Mandate definition & supervision The candidate will integrate Pre-trade pricing service team (1 team lead, 7 developers) as a developer in order to reinforce the team. The team is currently involved in strategic projects related to meteor demise subject, implying development new applications in order to replace legacy tools. Pricing service team maintain/enhance also applications providing these services: Pricing API with customizable market data and pricing context on GEM products perimeterPricing workloads distributionRealtime price streaming APICurve and formulas calculations and display, pricing UI, \u2026 Applicative Scope : Pricing Service APISquare Concerto MaestroRole:She/He will work closely with Business users, IT Quants, and other IT stakeholders.Main missions will be:Understand client requirements and how they translate in application featuresCollaborate with developers, business analysts, architects and business users Write high quality source code, perform unit and integration testingKeep up with trends in terms of standard, technologies or methodologiesSupport of pricing service team\u2019s applicationsPush the usage and adoption of new technical framework & concepts (Cloud, Data, AI, \u2026) Hard skills:Real-time developmentsC# developments on REST micro-services (based on ASP.net)Devops & AzureAgile, Continuous DeliveryExperience in Financial industryCommodity knowledgeWeb interface development with Angular is a plus Soft skills:Behavioral SkillsWorking togetherProactive Pragmatic Quality and result oriented Communication skills with IT and business users Education and professional background:years+ experience in IT projects in a financial institutionLanguages: English, French If you meet these requirements, then you are the talent we are looking for. Do not waste time! Apply by attaching your updated CV, regardless your gender. ENGIE Global Energy Management & Sales is committed to create a gender-neutral environment that unlocks the potential of everyone and provide equal employment opportunities for all individuals. All our positions are open to people with disabilities, please let your recruiter know if you need reasonable accommodations to be able to participate in the recruitment process, they will be happy to assist you. About ENGIE:Our group is a global reference in low-carbon energy and services. Our purpose (\u201craison d\u2019\u00eatre\u201d) is to act to accelerate the transition towards a carbon-neutral world, through reduced energy consumption and more environmentally-friendly solutions, reconciling economic performance with a positive impact on people and the planet. We rely on our key businesses (gas, renewable energy, services) to offer competitive solutions to our customers. With our 170,000 employees, our customers, partners and stakeholders, we are a community of Imaginative Builders, committed every day to more harmonious progress",
+            "apply_options": [
+                {
+                    "title": "Engie.com",
+                    "link": "https://www.engie.com/en/jobs/digital-it-data/developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://fr.indeed.com/viewjob?jk=aa4285c938b2db22&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Taleez",
+                    "link": "https://taleez.com/apply/business-developer-tourisme-courbevoie-aizen-recruitment-cdi?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.fr/job-listing/is-developer-engie-JV_IC4337427_KO0,12_KE13,18.htm?jl=1009496923907&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Energy Jobline",
+                    "link": "https://www.energyjobline.com/job/hydrogen-business-developer-22042670?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emplois Trabajo.org",
+                    "link": "https://fr.trabajo.org/offre-861-cd4408579e3abca4baaf85dd8a2e6334?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "LinkedIn",
+                    "link": "https://fr.linkedin.com/jobs/view/is-developer-at-engie-global-energy-management-sales-4056929203?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Talent.com",
+                    "link": "https://fr.talent.com/view?id=d8edff3eb610&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJJUyBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJFTkdJRSIsImFkZHJlc3NfY2l0eSI6IkNvdXJiZXZvaWUsIEZyYW5jZSIsImh0aWRvY2lkIjoiVUtwRlBCYkY3YmE4R012RUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "UI Developer, Image Playground",
+            "company_name": "Apple",
+            "location": "Paris, France",
+            "via": "Careers At Apple",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=developer&htidocid=lDdjDOBfoNAvn0e-AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEsQrCMBAAUFz7AQ5ON0tNROiikyBKnbo4l0s8kpQ0F3JR6j_40eIbXvNdNd2jhwu9KXKm0kI_oyMYIn5c4Vd6wg7ubEAIi_XACW7MLtLm5GvNctRaJConFWuwyvKsOZHhRU9s5N8oHgvliJXGQ7dfVE5uuz7nHAlCggFLkBauBZOlH6B5DsKPAAAA&shmds=v1_AXX-3kHD78VNFpEH5E59pNfkfZzRofCzW93wCdfUgijPQfzI8g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=lDdjDOBfoNAvn0e-AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6750aa4c2c566d917b585743/images/f6f3b478fe26a6d80c2032c8b9c8226c9732beecd9306a9ce2bbba7267a44fb1.png",
+            "extensions": [
+                "6 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "6 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Summary\nPosted: Nov 29, 2024\n\nRole Number:200578933\n\nWith Image Playground, users can create fun images in seconds. Powered by Apple Intelligence, Image Playground is easy to use and built right into apps including Messages. It\u2019s also available in a dedicated app, perfect for experimenting with different concepts and styles. All images are created on device, giving users the freedom to experiment with as many images as they want.\n\nIf you're passionate about creating amazing UI experiences, join our team and explore new features related to generating and previewing rich media such as Images, Videos or PDFs.\n\nDescription\n\nDescription\nOur team develop the next generation of frameworks and applications for Quick Look and Image Playground. We\u2019re a highly cross-functional group working with everything from the backend through to the user interface. In this role you will refine existing functionalities on iOS and macOS that power today\u2019s Apple products as well as inventing new features.\n\nMinimum Qualifications\n\nMinimum Qualifications\n\u2022 Specialist in Apple\u2019s API in Swift (SwiftUI or UIKit or AppKit)\n\u2022 Fluent with Apple\u2019s development tools (Xcode)\n\u2022 Good knowledge of Data Structures and Algorithm\n\u2022 Background in UI prototyping and implementation\n\nKey Qualifications\n\nKey Qualifications\n\nPreferred Qualifications\n\nPreferred Qualifications\n\u2022 Self-motivated with passion for quality\n\u2022 Bachelors Degree in a related field or equivalent experience.\n\u2022 MacOS development experience\n\nEducation & Experience\n\nEducation & Experience\n\nAdditional Requirements\n\nAdditional Requirements\n\nMore",
+            "apply_options": [
+                {
+                    "title": "Careers At Apple",
+                    "link": "https://jobs.apple.com/en-us/details/200578933/ui-developer-image-playground?team=SFTWR&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.fr/job-listing/ui-developer-swift-and-xcode-apple-JV_IC2881970_KO0,28_KE29,34.htm?jl=1009529074587&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Indeed",
+                    "link": "https://fr.indeed.com/viewjob?jk=e6e7692cb27f42ba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "SimplyHired",
+                    "link": "https://www.simplyhired.fr/job/mKR-TrfBYNryRbQJxICSWKK2h64gklWn-0gTYAJ1g41xh3wVEpICrw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emplois Trabajo.org",
+                    "link": "https://fr.trabajo.org/offre-2893-93c559ed65f98ace89b00af597c5f6d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.com/job-listing/ui-developer-image-playground-apple-JV_IC2881970_KO0,29_KE30,35.htm?jl=1009529074587&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Fairygodboss",
+                    "link": "https://fairygodboss.com/jobs/apple/ui-developer-image-playground-56b55b5a85027589bf86ad92def60cc1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJVSSBEZXZlbG9wZXIsIEltYWdlIFBsYXlncm91bmQiLCJjb21wYW55X25hbWUiOiJBcHBsZSIsImFkZHJlc3NfY2l0eSI6IlBhcmlzLCBGcmFuY2UiLCJodGlkb2NpZCI6ImxEZGpET0Jmb05Bdm4wZS1BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUm5KaGJtTmwifQ=="
+        },
+        {
+            "title": "Developer Experience Software Engineer",
+            "company_name": "AXA Group",
+            "location": "Paris, France (+1 other)",
+            "via": "Careers At AXA",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=developer&htidocid=I4959G4mJPsgF5pVAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCMBBAce0ndLpZtBHBRXEoWAtOgotbScOZpMS7kIvaT_FzjctbHjxe9V1UxxO-MXDEBN1c6JEMwo0f-aMTQkfWExa5hguPIKiTccAEPbMNWB9czlH2SomExkrW2ZvG8FMx4cizmniUPwZxJReDzjhsd5u5iWSXdXtvoU_8iuAJrjp5WcE56XLwA4IsKNebAAAA&shmds=v1_AXX-3kHoXVtSv0XR_a3xTEMFAoZmdaGanwy5xYowLNnuWA6s8w&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=I4959G4mJPsgF5pVAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6750aa4c2c566d917b585743/images/f6f3b478fe26a6d86ce3b44d8f7c5c4b43960e096123182bff6ad2f83889de7b.png",
+            "extensions": [
+                "9 days ago",
+                "Full-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "9 days ago",
+                "schedule_type": "Full-time"
+            },
+            "description": "Join our Group Data, AI & Innovation (GDAI) department, specifically the Software and AI Engineering team based in France or Spain. Reporting to the Group Developer Experience Lead, you will:\nAutomate Security/Development SDLC Processes: Implement automation for cybersecurity processes within the software development lifecycle. Develop and Integrate Software: Create and integrate software solutions using Cloud technologies, AI, and cybersecurity tools. Engage with the Engineering Community: Actively participate in and contribute to the AXA engineering community. Support Open Source Initiatives: Contribute to AXA's Inner and Open Source projects. Development Opportunities: Gain a global perspective by collaborating with stakeholders worldwide. Develop an efficient, structured, and dynamic work organization. Enhance your IT skills in areas such as CI/CD, Cloud, IT security, web development, and presentation content creation. Objective: Enhance the productivity and satisfaction of our teams with high levels of security and automation.\n\nYour Profile\n\nWe are looking for candidates who thrive in environments involving: Web & Backend development, LLM\u2019s like Mistral, ChatGPT, AWS/Azure Cloud, App securityOpen Source, IT communities and clear communication of ideas.\n\nExperience: Minimum of 3 years in a similar role.\n\nEducation: Degree equivalent to Bac +5 from an Engineering School or University. Specialization in Computer Science or equivalent.\n\nBehavioral Skills / Soft Skills:\n\u2022 Ability to interact in English with a diverse range of individuals.\n\u2022 Strong written and verbal communication skills in English.\n\u2022 Ability to coordinate various activities with multiple stakeholders in a large international organization.\n\u2022 A desire to learn, build, and grow. Passion for IT and software development.\n\u2022 Interest in gaining international experience.\n\u2022 Technical Skills / Hard Skills:\n\u2022 Web Development (Backend and Frontend).\n\u2022 Experience with ChatGPT and AI Coding.\n\u2022 Proficiency in one of the following: Java, Python, C#, JS, or another language.\n\u2022 Good knowledge of application security.\n\u2022 Experience with AWS or Azure Cloud (optional).\n\u2022",
+            "apply_options": [
+                {
+                    "title": "Careers At AXA",
+                    "link": "https://careers.axa.com/global/en/job/AXGRGLOBAL2400076HYESTALEOENEXTERNALENGLOBAL/Developer-Experience-Software-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Spain Jobs Expertini",
+                    "link": "https://es.expertini.com/jobs/job/developer-experience-software-engineer-barcelona-axa-group-cc43311739/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wZXIgRXhwZXJpZW5jZSBTb2Z0d2FyZSBFbmdpbmVlciIsImNvbXBhbnlfbmFtZSI6IkFYQSBHcm91cCIsImFkZHJlc3NfY2l0eSI6IlBhcmlzLCBGcmFuY2UiLCJodGlkb2NpZCI6Ikk0OTU5RzRtSlBzZ0Y1cFZBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUm5KaGJtTmwifQ=="
+        },
+        {
+            "title": "Frontend Developer",
+            "company_name": "SAS GoodBarber",
+            "location": "Ajaccio, France",
+            "via": "GoodBarber",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=developer&htidocid=3uhkoHetRgErn1FsAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCMBCAYVz7CE7nqGgjgoudKlLBtQ9QLumRtMS7kAvSd_Cltcs_fn_13VT7LgsX4hEe9KEoiTKc4CUWlDC7AMLwFPGRtk0oJenNGNVYey1YJlc7eRthsrKYWayuGTRgphSx0HC5npc6sT_s-rZfofGO2f4fE0M7o3OTHKHLyI5-3wImvY4AAAA&shmds=v1_AXX-3kGn3jl4J9h9ciQdSmCwoKXi8hiH_QrN3y0lcPfd5_MP7g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=3uhkoHetRgErn1FsAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6750aa4c2c566d917b585743/images/f6f3b478fe26a6d855f0a4a11dfe02cf456f152826e0f4d36109e33267b6d418.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We're looking for a Frontend Developer (Angular) to help build and maintain our engine to build Progressive Web Apps. You won't just be working on a website, but the engine that will be used to create thousands of PWAs. You will collaborate closely with Product, Design and QA to spec, build, test and deploy new features.\n\nYou will play a key role in our engineering practice, implementing new features, developing our PWA engine and building beautiful user interfaces.\n\nYour daily missions will include:\n\u2022 Craft new and improved features of the GoodBarber Angular Engine\n\u2022 Rapidly solve problems\n\u2022 Optimize the existing code for ease of use and performance\n\u2022 Prototype product concepts\n\u2022 Proactively look for ways to make the project better\n\u2022 2 years of work on Angular or React projects, having built and maintained one or many web-app\n\u2022 Experience building and debugging complex systems & layouts\n\u2022 Strong problem solving skills\n\u2022 Strong oral and written English communication skills\n\u2022 Collaborative attitude when working with other team members\n\u2022 Bonus: knowing the iOS or Android SDK basics",
+            "apply_options": [
+                {
+                    "title": "GoodBarber",
+                    "link": "https://careers.goodbarber.com/o/frontend-developer-ajaccio?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJGcm9udGVuZCBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJTQVMgR29vZEJhcmJlciIsImFkZHJlc3NfY2l0eSI6IkFqYWNjaW8sIEZyYW5jZSIsImh0aWRvY2lkIjoiM3Voa29IZXRSZ0VybjFGc0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "Senior Front-End Developer",
+            "company_name": "Qovery",
+            "location": "France",
+            "via": "Crane Venture Partners",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=developer&htidocid=qtP6r-zAMJh1KwP3AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNvQrCMBAAYFw7OTvdLDRRwUVXf8BNfICSxCNJiXchd5S6-uTq8q1f91l02wdS5gaXxqT9mZ5wwgkLV2zQw409CLoWEjDBlTkWXB2TapWDtSLFRFGnOZjAL8uEnmc7spc_gyTXsBanOOz2m9lUiuvlnSdsb8j0Kx0F_ALa8-DuhQAAAA&shmds=v1_AXX-3kGeQFl6wJW4VNJDERKLMW3Svi1Gf7ou_aFt0msdpncY0A&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=qtP6r-zAMJh1KwP3AAAAAA%3D%3D",
+            "extensions": [
+                "16 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "16 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "R&D \u00b7 France \u00b7 Fully Remote\nSenior Front-End Developer\n\nWe usually respond within three days\n\nWe provide the DevOps automation platform built to empower developers. From cloud infrastructure provisioning to production deployment, Qovery streamlines every step, enabling faster delivery, simplified workflows, and significant time savings.\n\ud83d\udd0b Role overview\n\nAs we continue to grow, we seek a highly skilled and experienced Senior Front-End Engineer to join our dynamic team.\nIn this role, you will be responsible for designing, developing, and maintaining our web-based user interface.\n\nYou will work closely with our backend engineers, product managers, and designers to create a seamless and intuitive user experience for our customers.\n\n\ud83d\ude80 What You'll Do:\n\nWhat you\u2019ll do daily:\n\u2022 Contribute to the front-end development efforts, ensuring the delivery of high-quality, maintainable, scalable code and design system in a full-remote model with Agile delivery methodology.\n\u2022 Collaborate with cross-functional teams to iteratively deliver highly qualitative solutions on time.\n\u2022 Define the development standards and processes at Qovery.\n\u2022 Stay up-to-date with industry trends and technologies to ensure our applications remain cutting-edge.\n\nOur frontend technical stack:\n\u2022 React\n\u2022 Nx monorepo with React Query\n\u2022 Landing page created with Gatsby and Prismic\n\u2022 Style using Tailwind and SCSS\n\u2022 Tests with Cypress and Jest\n\u2022 Storybook\n\nTo see more, check out our user documentation: https://docs.qovery.com. You can also check our open-source Console here.\n\n\ud83d\udca1 What you'll bring in:\n\u2022 You are a Front-End Engineer with 5+ years of experience\n\u2022 You are well versed in a major framework (React, Vue, \u2026) and enthusiastic about Javascript, HTML, and CSS\n\u2022 You have a product-oriented mindset, making sure to deliver the best product for our end users\n\u2022 You know how to use design patterns to create simple and reusable components for complex UIs\n\u2022 You are familiar with data structures and algorithms, profiling and optimization\n\u2022 Your work or portfolio is visible online\n\u2022 You value code simplicity, performance, and details\n\u2022 You are familiar with Agile methods\n\u2022 You are humble and still willing to learn, even if you are already senior\n\u2022 Collaborative, enthusiastic about teamwork, and sharing your knowledge\n\u2022 You are fluent in English\n\u2022 Above all, we are looking for a personality - come as your are!\n\n\ud83c\udfaf Why Join Us:\n\u2022 We propose an attractive benefits package: We'd like to hire a Senior profile (a 4' level in our levelling matrix) for this role. Our compensation range is 60-85k\u20ac. Your final salary will be based on your experience, what you've demonstrated during the interviews and internal fairness. Depending on your performance, we also propose bonuses.\n\u2022 Impactful work: Join a high-growth startup with a product that genuinely makes a difference for developers and businesses alike.\n\u2022 Innovative Environment: Be part of a team of doers, that\u2019s pushing boundaries in cloud technology and redefining how companies manage their infrastructure.\n\u2022 Flexibility & Work-Life Balance: we value results over hours and offer a flexible remote work setup.\n\u2022 Continuous learning and professional development opportunities\n\u2022 An authentic company culture with a focus on care, customer success, and innovation!\n\nD\u00e9partement R&D Role Senior Front-End Developer Locations France Remote status Fully Remote Yearly salary \u20ac60 - \u20ac85\n\nContact Marie Mallassi Senior People Manager \u2013 Human Resources\n\nAbout Qovery\n\nWe are passionate about simplifying the complexities of cloud infrastructure for software development. We provide an Internal Developer Platform that streamlines the path to production, offering solutions like testing, ephemeral environments, and a focus on continuous software improvement.\n\nAs a growing company co-founded by experienced professionals, we are committed to innovation and excellence in the tech world.\n\nR&D \u00b7 France \u00b7 Fully Remote\nSenior Front-End Developer",
+            "apply_options": [
+                {
+                    "title": "Crane Venture Partners",
+                    "link": "https://careers.crane.vc/companies/qovery/jobs/42589108-senior-front-end-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Techstars Job Board",
+                    "link": "https://jobs.techstars.com/companies/qovery/jobs/42589108-senior-front-end-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jobilize",
+                    "link": "https://www.jobilize.com/job/fr-senior-front-end-developer-france-crane-venture-partners-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnJvbnQtRW5kIERldmVsb3BlciIsImNvbXBhbnlfbmFtZSI6IlFvdmVyeSIsImFkZHJlc3NfY2l0eSI6IkZyYW5jZSIsImh0aWRvY2lkIjoicXRQNnItekFNSmgxS3dQM0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "Developer Advocate",
+            "company_name": "Koyeb",
+            "location": "Paris, France",
+            "via": "STATION F Job Board",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=developer&htidocid=Bb3soVBH5hRBUVi9AAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQoCMQwAUFzvAxycsiraiuCikyAKuvgHR1pD26M2JSnHufnp6vLG131m3fJMI2WuJHB6juyxEWzgxg6UUHwELnBlDpkWx9ha1YO1qtkEbdiSN55flgs5nuzATv_0GlGo5l_V7_bbydQSVvM7v8lBKvBASbqGi2Dx9AVo66migwAAAA&shmds=v1_AXX-3kGy2TYV1XebWlyA67MKM2_H2rdpHuxUx6F0J-8-0XDYOg&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=Bb3soVBH5hRBUVi9AAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6750aa4c2c566d917b585743/images/f6f3b478fe26a6d830bbce5a3cd32eb7e00cb77a8d0b68ae88f1f95d196d17a3.jpeg",
+            "extensions": [
+                "14 days ago",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "14 days ago",
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "We are looking for our first Developer Advocate to engage with developers communities and grow the existing Koyeb community.\n\nOur thing is making developers\u2019 lives easier with the fastest way to deploy applications globally. The Koyeb Serverless Platform is completely managed: we take code, build it into containers, and run it inside of MicroVMs distributed across multiple continents.\n\nWe are focused on a bottom-up approach, our acquisition is purely organic, and developer adoption is crucial to the success of our mission. We have built a community of over 100,000 members so far and are serving businesses all around the world.\n\nIf this sounds interesting, keep reading!\n\nWhat you\u2019ll be doing\n\nAs a Developer Advocate, you will become the most prominent advocate of the community.\n\nThis job is focused on building and maintaining relationships with developers and technical communities. The primary focus of this role will be to increase awareness and adoption of Koyeb's products and services by developers.\n\nYou will be working with our community and our team to improve the product and help developers discover the platform through high-quality content including starter apps, documentation, guides, and blog posts.\n\nYou will:\n\nCreate high-quality technical content, including blog posts, tutorials, and documentation, to help developers learn about and use Koyeb's products.\nBuild demo and starter apps to highlight key use cases of the platform.\nDevelop and maintain relationships with developers, technical communities, and other industry stakeholders.\nContribute to the development of developer-facing tools like our SDKs, CLI, and third-party integrations.\nServe as a technical evangelist for Koyeb's products and services, helping developers understand how to use them effectively and providing guidance on best practices.\nEngage with the developer community through public talks, videos, streams, podcasts, and other events.\nCollaborate with the product and engineering teams to gather feedback from developers, help shape the direction of the product, and refine our roadmap.\nStay up to date on industry trends and technologies, how they can work with the Koyeb Serverless Platform, and help shape the technical direction of Koyeb's products and services.\nEngage with our community on social platforms (like Twitter or Reddit) and communication channels such as Discord, Slack, and Discourse.\n\nYou will work directly with the co-founders and especially Edouard, holding the CPO role, to grow the developer community.\n\nYou will succeed if you:\n\nSupport Koyeb users in their journey to get the most out of the platform\nWork closely with the developer community, interact with our users, and federate the Koyeb community\nContribute and advocate for the Koyeb partner integrations, and collaborate with the rest of the team to make them happen\nCollect, analyze, and share developer insights to improve the Koyeb platform\nInfluence marketing and branding efforts in addition to developer relations\n\nYou\n\nAs a general rule, if you join us, independent of the position, you should be comfortable with the following description of yourself. You:\n\nhave an international mindset and think global\nare looking for a fast-paced environment\nare ambitious and believe small teams can have a huge impact\nare data-driven, you know decisions are more meaningful if they are based on data\nare working as a team member\nare autonomous and structured, are able and willing to write specifications/plans before implementing/executing\nare striving for continuous improvement and learning\n\nMore specifically, you:\n\nhave a strong technical background, with experience as a software developer or technical consultant.\nhave experience working with developers and technical communities, either as a developer advocate or in a similar role.\nhave excellent written and verbal communication skills, with the ability to explain complex technical concepts in a clear and concise manner.\nare a strong communicator with a track record featuring engaging talks, popular articles, and technical publications\nhave a passion for building mindshare via content for developers\nhave a willingness to experiment via metrics-driven approach to execution\nhave a strong understanding of cloud and infrastructure technologies including serverless platforms, DBaaS, PaaS\nhave a passion for helping developers and a desire to make a positive impact on the industry.\n\nOur stack and technologies\n\nAll the Koyeb platform is built internally by our engineering team\n\nAll user workloads are run inside of MicroVMs using Firecracker, a fork from KVM open-sourced by Amazon.\nWe use Nomad to schedule these MicroVMs on top of BareMetal servers.\n\nWe provide various developer tools to deploy on our platform, including:\n\nA web interface at app.koyeb.app\n\nKoyeb CLI and REST APIs\n\nPulumi and Terraform connectors\n\nWe write tutorials to help our users deploy on the platform\n\nWe interact with our users mostly through:\n\nOur community platform at community.koyeb.com\nOur feedback platform at feedback.koyeb.com\nOur Slack community channel at slack.koyeb.com\n\nHow we work\n\nThis is a fully-remote full-time position - with the option to work from our main office in Paris, France, or in a co-working space near you.\n\nWe hire everywhere in Europe for this position and you should be less than 3000 kms/5 hours away from Paris, France as we meet once every 6 weeks there for an event we - super originally - call \u201cEveryone in Paris\u201d.\n\nWe believe being able to meet once every 6 weeks is a strong advantage to improve communication and brainstorming.\n\nContract-wise:\n\nIf you\u2019re located in France, we provide standard full-time contracts with full-health coverage and standard benefits.\n\nIf you\u2019re located in another country, we provide two options:\n\nstart with a 4 months independent contract and onboard you after that as a full-time employee with deel.com EoR service - we just need some time to understand your local regulation.\nwork indefinitely as an independent contractor - if local labor laws allow itThe salary range for Europe is between IC10-1C11 plus equity - more information here\n\nWe\u2019re looking for an experimented Developer Advocate and the salary is between \u20ac60k and \u20ac75k full-time, plus equity. This is the gross salary for France - for team members who are based outside of France, gross salaries are adjusted using the total cost as an employer, click here to learn more.\n\nSome context about Koyeb:\n\nWe\u2019re a really small team, currently 12 and we\u2019re composed of 90% of technical people and the resulting 10% catch the technical side.\nWe\u2019re building a product used by developers and are interacting daily with our developers\u2019 community - which are our users.\nAll our communications, internal and public, are in English. We are a global company, currently headquartered in France, Europe.\nWe\u2019re prioritizing work that has a direct impact on user experience and expect you to think first about impact. Our long-term mission doesn\u2019t change, but you need to be willing to work on a short-term roadmap evolving quickly depending on user feedback.\nWe\u2019re an early-stage and full remote company. This is a demanding job that requires a high degree of autonomy and the ability to work asynchronously.\n\nIf these look like challenges you\u2019d like to work on, continue scrolling\n\nHow we hire\n\nWe ask you to send us \u201csomething interesting\u201d via the standard application form. Here are some guidelines on what we think is interesting:\n\nPlease explain why you would like to join us, a resume without any explanation is rarely interesting. This is sometimes called a cover letter but just think about it as if you would send an e-mail and explain why you think we should talk. A dozen of lines are sufficient.\nAn up-to-date LinkedIn/equivalent profile or resume is needed. We need it to have a quick overview of what you\u2019ve done.\nOpen source projects you\u2019ve worked on.\n\nWhat we need to understand is how what you've worked on is relevant to what we\u2019re building here at Koyeb. We don\u2019t pay extensive attention to a standardized format and what the theory says but keep in mind that good written communication skills are crucial to working at Koyeb.\n\nIf we believe we could work together, Richa, our people & talent manage, will reach out to schedule a first 45 minutes call to make sure this could be a match.",
+            "apply_options": [
+                {
+                    "title": "STATION F Job Board",
+                    "link": "https://jobs.stationf.co/companies/koyeb/jobs/developer-advocate_bruxelles?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emplois Trabajo.org",
+                    "link": "https://fr.trabajo.org/offre-2893-b03e4e6433a1cb1eceb66e1a64e8d97a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wZXIgQWR2b2NhdGUiLCJjb21wYW55X25hbWUiOiJLb3llYiIsImFkZHJlc3NfY2l0eSI6IlBhcmlzLCBGcmFuY2UiLCJodGlkb2NpZCI6IkJiM3NvVkJINWhSQlVWaTlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUm5KaGJtTmwifQ=="
+        },
+        {
+            "title": "Software developer for data management",
+            "company_name": "ESRF",
+            "location": "France",
+            "via": "Science Careers",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=developer&htidocid=5SFE9Px0_UGvLuPyAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQ7CMAwAQLF24AFMnpFoEBILiJEiMdIHVG7qpkWJHcUW9BE8Glhuveqzqi6tjPbGQjDQi6JkKjBKgQENISFjoERssIO79KCExU8gDDeREGlznsyynpxTjXVQQ5t97SU5YeplcU_p9U-n0-_IEY26w3G_1JnDdn1tHw3MDE1B9vQFJ7o9_Y8AAAA&shmds=v1_AXX-3kG14IAJRDcUzC5a-XC2PB7eXbozmC5D1cGH_h69GM89sw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=5SFE9Px0_UGvLuPyAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6750aa4c2c566d917b585743/images/f6f3b478fe26a6d8baa4fa5ee3022786be2193b5b7a1480efb79fefca34dba1e.jpeg",
+            "extensions": [
+                "1 month ago",
+                "Part-time"
+            ],
+            "detected_extensions": {
+                "posted_at": "1 month ago",
+                "schedule_type": "Part-time"
+            },
+            "description": "The European Synchrotron, the ESRF, is an international research centre based in Grenoble, France.\n\nThrough its innovative engineering, pioneering scientific vision and a strong commitment from its 700 staff members, the ESRF is recognised as one of the top research facilities worldwide. Its particle accelerator produces intense X-ray beams that are used by thousands of scientists each year for experiments in diverse fields such as biology, medicine, environmental sciences, cultural heritage, materials science, and physics.\n\nSupported by 21 countries, the ESRF is an equal opportunity employer and encourages diversity.\n\nAs part of a group of 15 engineers, you will participate in a project focusing on the implementation of FAIR data management practices of datasets for the ESRF and related data repositories. In the context of the European Open Science Cloud (EOSC) the adoption of Open Science practices is increasing. Data from Photon and Neutron (PaN) facilities is becoming available for a wider range of users. You will work in close collaboration with software engineers working on data management, databases, data processing, metadata collection and web portals. You will interact with scientists and users to address their needs in data management. You will interact with the EOSC community of users.\n\nYour missions will be the following:\n\u2022 Improve the adherence of ESRF data to the FAIR principles\n\u2022 Extend the PaN experimental techniques ontology to cover a maximum of techniques at ESRF beamlines\n\u2022 Link DOIs to external data repositories, develop instrument and workflow PIDs\n\u2022 Deploy and integrate the PaN data portal as a service in the PaN EOSC Node\n\u2022 Deploy AI/ML tools to analyse e-logbooks produced by beamline operations\n\u2022 Demonstrate composability of services for data and workflows\n\u2022 Raise visibility of ESRF data by linking them to trusted networks\n\u2022 Higher university degree (Master or equivalent diploma offering 300 ECTS) in Computer Science, Engineering, Science or equivalent\n\u2022 2 years minimum of professional related experience\n\u2022 Good to high knowledge of Python\n\u2022 Good to high knowledge of data modeling, metadata and data formats\n\u2022 Solid understanding of AI/ML techniques and algorithms\n\u2022 Experience in developing web applications is a plus\n\u2022 Familiarity working on a Linux environment\n\u2022 Good communication skills and team spirit\n\u2022 Proficiency in English (working language at the ESRF)\n\nThe salary will be calculated on the basis of relevant qualifications and professional experience.\n\nDo you recognize yourself in this description? Apply now for your next professional adventure!\n\nWhat we offer:\n\u2022 Join an innovative international research institute, with a workforce from 38 different countries\n\u2022 Collaborate with global experts to advance science and address societal challenges\n\u2022 Come and live in a vibrant city, in the heart of the Alps, and Europe's Green Capital 2022\n\u2022 Enjoy a workplace designed to support your quality of life\n\u2022 Benefit from our competitive compensation and allowances package, including financial support for your relocation to Grenoble\n\nFor further information on employment terms and conditions, please refer to https://www.esrf.fr/home/Jobs/what-we-offer.html\n\nThe ESRF is an equal opportunity employer and encourages applications from disabled persons.",
+            "apply_options": [
+                {
+                    "title": "Science Careers",
+                    "link": "https://jobs.sciencecareers.org/job/665034/software-developer-for-data-management/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Diversity In Research | Jobs",
+                    "link": "https://www.diversityinresearch.careers/job/1885659/software-developer-for-data-management/?LinkSource=SEOLandingPageListing&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBkZXZlbG9wZXIgZm9yIGRhdGEgbWFuYWdlbWVudCIsImNvbXBhbnlfbmFtZSI6IkVTUkYiLCJhZGRyZXNzX2NpdHkiOiJGcmFuY2UiLCJodGlkb2NpZCI6IjVTRkU5UHgwX1VHdkx1UHlBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUm5KaGJtTmwifQ=="
+        },
+        {
+            "title": "Unity Developer",
+            "company_name": "TapNation",
+            "location": "Anywhere",
+            "via": "Welcome To The Jungle",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=developer&htidocid=4R725y7c07m9W5_dAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQoCMQyAYVzvEW7K5CDaiuCiqyg4iIPOR1pC26MmpSlyjr655_Jv3999F93yyal94ERvylKowgau4kAJq48gDBeRkKk_xtaKHqxVzSZow5a88fKywuRksqM4_WfQiJVKxkbDbr-dTOGw6h9YbrOYd4nhjjXpGs4V2dMPrHC1nIQAAAA&shmds=v1_AXX-3kH8H5d4Dzfq1FuoKZ-ts9g0PCQFAQjOK1Mu-nvb-Fpddw&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=4R725y7c07m9W5_dAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6750aa4c2c566d917b585743/images/f6f3b478fe26a6d839b558f02b1747e90a8508f4c88eb0c1e1569a0f6c0916d7.png",
+            "extensions": [
+                "26 days ago",
+                "Work from home",
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "posted_at": "26 days ago",
+                "work_from_home": true,
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "TapNation - Redefining Mobile Gaming Excellence \ud83c\udfae\n\nFounded in 2019, TapNation is an innovative French company specializing in mobile game publishing. In the space of just five years, we have published over 50 games, accumulating more than a billion downloads worldwide. We rank among the world's top 15 mobile game publishers, a status achieved thanks to our approach combining creativity and technological optimization.\n\nAt TapNation, we value rapid growth, innovation and a dynamic multicultural environment. With a diverse team spread across several countries, we offer you the opportunity to work on projects that have a direct impact on the company's performance. Our values of adaptability and collaboration have enabled us to become one of France's most promising companies, recognized by French Tech 120 and voted \u201cChampion of Growth\u201d in 2024 by Les Echos.\n\nWhen you join TapNation, you'll be joining a company with dynamic and ambitious atmosphere, where your ideas are valued.\n\nWe invest in the personal development of our employees and promote a balance between performance and well-being, certified by our Great Place to Work and Happy at Work labels. Whether you're passionate about mobile games or simply interested in a constantly evolving environment, TapNation is the place where you can bring your ambitions to life.\n\nTo continue our amazing mission, we are seeking an ambitious and results-driven Unity Developer (all types of contracts) to help our Game Development team \ud83d\udcaa\n\nRole Overview \ud83d\udc40\n\nAs a Unity Developer, you will mainly work on our games, reporting to our Lead Unity Developer (Fabien) and working closely with our Game Development team.\n\nYour main missions:\n\u2022 Maintain game.\n\u2022 Implement and update SDK.\n\u2022 Add new feature to the game.\n\u2022 Setup test.\n\u2022 Publish on store.\n\u2022 Resolve rejection and build issues.\n\nBenefits :\n\nMay vary depending on the country\n\u2022 Competitive base salary.\n\u2022 Remote policy: this position can be full remote.\n\u2022 Les Nouveaux Bureaux offices in Paris 17e (including fitness room).\n\u2022 Meal tickets: 15 tickets per month at 8.50\u20ac per ticket with the Swile Card. (This means that when you're on vacation you still earn luncheon vouchers).\n\u2022 Health Care Insurance: 50% covered for you with Alan.\n\nBenefits if Freelancer :\n\u2022 Competitive fees.\n\u2022 15 days paid time off per year.\n\u2022 Remote policy: full remote.\n\u2022 You can find us at Les Nouveaux Bureaux offices in Paris 17e (including fitness room) if you want to say hello.\n\nProfile:\n\u2022 Deep Knowledge of Gaming Development & Programming.\n\u2022 Deep Knowledge of Unity Development.\n\u2022 Strong technical knowledge.\n\u2022 Excellent Communication Skills.\n\u2022 Adaptability in Fast-Paced Environments.\n\u2022 A strong sense of team spirit.\n\u2022 English native or fluent.\n\nTapNation is an equal-opportunity employer \ud83e\udef6 Qualified applicants will receive consideration for employment without regard to sex, gender identity, gender expression, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.\n\nIf you're intrigued by the job offer, we encourage you to apply without hesitation, even if you don't meet all the criteria!",
+            "apply_options": [
+                {
+                    "title": "Welcome To The Jungle",
+                    "link": "https://www.welcometothejungle.com/en/companies/tapnation/jobs/unity-developer_paris_TAPNA_LAjy159?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Jooble",
+                    "link": "https://fr.jooble.org/jdp/-4673242487907476499?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJVbml0eSBEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJUYXBOYXRpb24iLCJhZGRyZXNzX2NpdHkiOiJQYXJpcywgRnJhbmNlIiwiaHRpZG9jaWQiOiI0UjcyNXk3YzA3bTlXNV9kQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJR1JuSmhibU5sIn0="
+        },
+        {
+            "title": "Java Backend Developer",
+            "company_name": "Disney",
+            "location": "Mont\u00e9vrain, France",
+            "via": "Taro",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=developer&htidocid=Zp2FEujb1oAPj1pxAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXEQQrCMBAAQLz2CYKwZ7GJCF70JkWh4BvKNi5pNO6GbAj1Db7Ed_gxcQ7TvBdN22NFOKF7EN-go0pREmVooZcRlDC7CYThIuIjLY9TKUkP1qpG47VgCc44eVphGmW2dxn136ATZkoRCw27_XY2if161QVlekFguAqX76dmDLyBc0Z29APkWcQwjgAAAA&shmds=v1_AXX-3kG6Imr7qPVigp8S5w5qlPxdpsexgSplAnOqB6fJFerniA&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=Zp2FEujb1oAPj1pxAAAAAA%3D%3D",
+            "thumbnail": "https://serpapi.com/searches/6750aa4c2c566d917b585743/images/f6f3b478fe26a6d82a6608973358177ab28172492cae193ab2d0620475f3d7d2.jpeg",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Join Disneyland Paris as a Java Backend Developer to work on transforming e-commerce platforms and enhancing visitor experiences.",
+            "apply_options": [
+                {
+                    "title": "Taro",
+                    "link": "https://www.jointaro.com/jobs/disney/java-backend-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJKYXZhIEJhY2tlbmQgRGV2ZWxvcGVyIiwiY29tcGFueV9uYW1lIjoiRGlzbmV5IiwiYWRkcmVzc19jaXR5IjoiTW9udMOpdnJhaW4sIEZyYW5jZSIsImh0aWRvY2lkIjoiWnAyRkV1amIxb0FQajFweEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUdSbkpoYm1ObCJ9"
+        },
+        {
+            "title": "Developer",
+            "company_name": "Marmelab",
+            "location": "Nancy, France",
+            "via": "Indeed",
+            "share_link": "https://www.google.com/search?ibp=htl;jobs&q=developer&htidocid=MlVaLmIc1kDNn3RRAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXFwQrCMAwA0Pv-QE85i7YieNGrTBDmL4y0hHbSJaUJY_r16uW97tPBjRYqUqnBAR4SQAlbzCAMd5FUaHvNZlUv3qsWl9TQpuiizF6Ygqz-JUH_jJqxUS1oNJ7Ox9VVTrvNgG2mggEmhidyfO-hb7_pC3cucrp8AAAA&shmds=v1_AXX-3kEWdWz_jN-HLOVOY_m6YRPKBrMSBp3xmn5JffUd8Amb1g&shem=jblt,jbolt&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=developer&htidocid=MlVaLmIc1kDNn3RRAAAAAA%3D%3D",
+            "extensions": [
+                "Full-time",
+                "No degree mentioned"
+            ],
+            "detected_extensions": {
+                "schedule_type": "Full-time",
+                "qualifications": "No degree mentioned"
+            },
+            "description": "Become a Marmelab Developer\n\nAt marmelab, developers don't just code. They transform the ideas of our customers into actual products. To do so, they use cutting-edge web technology and agile methodologies. Developers have the technical responsibility of the products they build. Oh, and we don't have project managers, so developers are in constant touch with customers without intermediaries.\n\nCutting-edge Stack\n\nWe do our best to choose the best tool for our customer's job. Today, we tend to prefer full-stack JavaScript, but we also have projects in Symfony, Python and Go.\n\nWe follow the evolution of the web stack very seriously. We dedicate 10% of our time to research and development, during which we test new approaches, languages, or libraries. When those new technologies actually bring an advantage to our customers projects, we do not hesitate to use them in production. Using this approach, we started using Node.js in 2012 , d3.js in 2013 , React.js in 2015 , Serverless in 2016 , GraphQL in 2017 , TypeScript in 2018 , and it's only the beginning!\n\nIf you're passionate about web & mobile development, Marmelab will be a great opportunity to level up.\n\nReact & Redux Node.js GraphQL PostgreSQL AWS Agility And Communication\n\nBacked by agile methodologies (SCRUM, Kanban, Lean Startup), we focus on the end user value to design and build features. We are directly and constantly communicating with our customers and their domain specialists.\n\nWe develop in an iterative manner, in two weeks sprints. We deliver to production continuously, and collect domain specific metrics from end users. Customers prioritize the work every 2 weeks, based on the feedback from earlier sprints.\nWe design each new feature in collaboration with our customers, so they can confront their vision to what the web stack can offer. We look for shortcuts to build a better product faster. We refactor continuously to avoid technical debt.\n\nWe talk to the customer Product Owner every morning in a short video conference. And at the end of every sprint, we meet in person for a demo and retrospective.\nCustomers are always aware of the work we do and the problems we solve. This constant communication helps us avoid waste, and the nasty tunnel effect. Customers see us as partners more than contractors.\n\nShared Responsibility and Autonomy\n\nAt Marmelab, developers propose their own solutions to the customers needs. They choose the technologies themselves, making sure their are a good fit for the customers context. We choose standard, durable, and fun to use solutions. When we hand over the code to our customers development team, we make sure they become autonomous.\n\nWe make decisions as a team, and we share the responsibilities. This autonomy promotes a deep involvement in our customers projects. It makes us have a strong impact on the direction they take.\n\nWhen we make architecture decisions, we tend to document our key learnings in our blog, see for yourself.\n\nShould we always use redux? Read more Progressive migration from Angular to React Read more How to automate accessibility tests? Read more Research And Development\n\nAt marmelab, we keep ourselves up to date with web and mobiles technologies. We regularly attend Tech / UX / Agile / Product conferences - it's part of the job description.\n\nWe constantly look for tools that help us solve our customers problems faster, or address a complex use case in a simple way. We experiment these tools early on, so we can know them when a customer needs them. We share what we learn in the open, because we learn a lot from other people doing the same.\n\nWe also regularly go to conferences as speakers. If a particular subject catches your attention, marmelab will invite you to talk about it publicly.\n\nBlend Web Mix Read more DevFest Nantes Read more dot AI Read more\n\nWe organise a hackday every two weeks.\nMarmelab employees choose a technical subject of interest, and work on it the whole day. It doesn't have to be related to the project they're working on.\n\nIt can be a new language to discover, a tool to build, a methodology to learn about. The goal is to learn something new, and to leverage this learning for the others, with a blog post or an open-source project.\n\nDetox : a testing framework Read more How to track memory leaks? Read more What's functional programming? Read more Do you picture yourself as a marmelab developer?\n\nThe main skill we're looking for is the love for work well done. No matter what programming language you master. You will learn, by our side, the current technologies and their best practices.\n\nWe're looking for more than just a particular skill, we're looking for a deep experience in web development and the ability to use this experience in new customer projects.\n\nWe are looking for seasoned developers, having at least 5 years of experience . You should master:\n\nJS or PHP7 or .Net/C# or Java/J2EE or Ruby or Python, in production and on a large codebase\n\nA MVC framework (Express, Symfony, MVC.Net, Sprint, RoR, Django)\n\nAPI-centric architectures (REST, HTTP)\n\nDesign patterns\n\nAutomated tests\n\nFrontend tech (HTML, CSS, animations, accessibility)\n\nAt least one relational database (PostgreSQL, MySQL, MSSQL, Oracle)\n\nAt least one NoSQL database (ElasticSearch, Redis, MongoDB, Cassandra)\n\nLinux\n\nPerformance optimisation (profiling, HTTP lifecycle, memory management)\n\nCollaboration with other developers (pull requests, code reviews, continuous integration)\n\nFrench and English\n\nAgile methodologies (SCRUM or KANBAN or Lean Startup)",
+            "apply_options": [
+                {
+                    "title": "Indeed",
+                    "link": "https://fr.indeed.com/viewjob?jk=c022b39fd3ed36bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Glassdoor",
+                    "link": "https://www.glassdoor.fr/job-listing/scientific-developer-m-f-ypso-facto-JV_IC2954424_KO0,24_KE25,35.htm?jl=1008983454589&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Emplois Trabajo.org",
+                    "link": "https://fr.trabajo.org/offre-2893-3d51d60c8785672ecf124e8285566896?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "BeBee",
+                    "link": "https://fr.bebee.com/job/d885771a15225302799a9d07aac51cbd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                },
+                {
+                    "title": "Startup Jobs",
+                    "link": "https://startup.jobs/business-developer-x-f-m-doctolib-2-5854106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+                }
+            ],
+            "job_id": "eyJqb2JfdGl0bGUiOiJEZXZlbG9wZXIiLCJjb21wYW55X25hbWUiOiJNYXJtZWxhYiIsImFkZHJlc3NfY2l0eSI6Ik5hbmN5LCBGcmFuY2UiLCJodGlkb2NpZCI6Ik1sVmFMbUljMWtETm4zUlJBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lHUm5KaGJtTmwifQ=="
+        }
+    ],
+    "serpapi_pagination": {
+        "next_page_token": "eyJmYyI6IkV1SUVDcUlFUVVwSE9VcHJUV3hhT1VobU9FSm1OMFV5Wm5WTWVXZFVVQzFSWWs1MmJVWkZSbFZTVnpFd1NtbDViRUY0VVhwd1RGWlFSMkV6UjB4c2NUQjVabE4zTWtkQ2QxbE9OM1ZNVUc1WFpFOVZORkExZURJNWFrbFhaRE5VZVZKdlQwOHplWEJyU1daR2FYbzRWVWRmTlc5Q0xUbHBWV0o0V2pac1Z6aENNVXhuY0hkRlZYbzNNSFpvYm1WaVNHcGZhMnQzTkdORlFYTkxYelV4VkZOWVNGRmlZWFYyVnpOeWVrbE1jaTFEZWxOa05uRmllVTlSUVU4M1NYVk1ZbFUwVWxZMGQwSnBhRkZyTmxWcU5sbFRjbWR1Y0hkbGJ6STNTRGRSU1d0eFZrOWhlRkJMYVVWR1MxVlNSVXBPTlV3MVFrUmFVbmt3UkhkQlZIRjZabFJYWkdSd1RWRjRiMjFOWkhWRVZGUk1jRUpWYUUxM1pFMHhiR0o0TTFGU1VIVTJNblZOWW5jeWNsZEplV2x1TnpOa1NrOVdaMFYyU0U5VWRUbGthVTEyYTFacmNsTTVWVTFLYTNKRE1VNWFVa1ZXZDB4U01HVkxiSGw0U0dkdFYxTnNkWFIzVlc1TmFYQlVhMDFZZW1WSWJWQnFlVVZuZGxSaU1FNUdOVEl4Um5wUlEycGhSSHBYUkdOaloxbEZRM1pVYkZaWWRHNUhjVzVDWkVZeVFrdE9Tek5WTVdkMFEzWmxTVFZ1Tm5vMWVERTJjMlUxZHpWQ1dsUjZXRWhtYTJoTk0yeEdTMVEwY0ZoRlVVMUliVXBDYVVoeGJsSkVObmRtTW1OTk16a3lVSFUyZDFSU1RURlhibXR6ZURCTVMwbHdZMm95UzNBeFRHSllWWFp5TVc1TE0wNXRTM2RpVVhveFdVVTFWbGhQVkRObGNGbFhha1k1UzJ3MWVURmxZbVJVVW0xalpVZEJFaGRVWVhCUldsODJjMGszVTBSM1ltdFFlVFJ4VmpoUlJSb2lRVVpZY2tWamIyUmFVSFZZYkhCelluSlFja1ozWTBoRlpHMXVXRzluV1hjdFFRIiwiZmN2IjoiMyJ9",
+        "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&location=France&next_page_token=eyJmYyI6IkV1SUVDcUlFUVVwSE9VcHJUV3hhT1VobU9FSm1OMFV5Wm5WTWVXZFVVQzFSWWs1MmJVWkZSbFZTVnpFd1NtbDViRUY0VVhwd1RGWlFSMkV6UjB4c2NUQjVabE4zTWtkQ2QxbE9OM1ZNVUc1WFpFOVZORkExZURJNWFrbFhaRE5VZVZKdlQwOHplWEJyU1daR2FYbzRWVWRmTlc5Q0xUbHBWV0o0V2pac1Z6aENNVXhuY0hkRlZYbzNNSFpvYm1WaVNHcGZhMnQzTkdORlFYTkxYelV4VkZOWVNGRmlZWFYyVnpOeWVrbE1jaTFEZWxOa05uRmllVTlSUVU4M1NYVk1ZbFUwVWxZMGQwSnBhRkZyTmxWcU5sbFRjbWR1Y0hkbGJ6STNTRGRSU1d0eFZrOWhlRkJMYVVWR1MxVlNSVXBPTlV3MVFrUmFVbmt3UkhkQlZIRjZabFJYWkdSd1RWRjRiMjFOWkhWRVZGUk1jRUpWYUUxM1pFMHhiR0o0TTFGU1VIVTJNblZOWW5jeWNsZEplV2x1TnpOa1NrOVdaMFYyU0U5VWRUbGthVTEyYTFacmNsTTVWVTFLYTNKRE1VNWFVa1ZXZDB4U01HVkxiSGw0U0dkdFYxTnNkWFIzVlc1TmFYQlVhMDFZZW1WSWJWQnFlVVZuZGxSaU1FNUdOVEl4Um5wUlEycGhSSHBYUkdOaloxbEZRM1pVYkZaWWRHNUhjVzVDWkVZeVFrdE9Tek5WTVdkMFEzWmxTVFZ1Tm5vMWVERTJjMlUxZHpWQ1dsUjZXRWhtYTJoTk0yeEdTMVEwY0ZoRlVVMUliVXBDYVVoeGJsSkVObmRtTW1OTk16a3lVSFUyZDFSU1RURlhibXR6ZURCTVMwbHdZMm95UzNBeFRHSllWWFp5TVc1TE0wNXRTM2RpVVhveFdVVTFWbGhQVkRObGNGbFhha1k1UzJ3MWVURmxZbVJVVW0xalpVZEJFaGRVWVhCUldsODJjMGszVTBSM1ltdFFlVFJ4VmpoUlJSb2lRVVpZY2tWamIyUmFVSFZZYkhCelluSlFja1ozWTBoRlpHMXVXRzluV1hjdFFRIiwiZmN2IjoiMyJ9&q=developer"
+    }
+}

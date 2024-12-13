@@ -1,0 +1,30 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  process_csv:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install pandas matplotlib pyarrow
+      - name: Process CSV
+        run: python scripts/csv_processing.py
+      - name: Fetch Jobs
+        run: python scripts/api_job_search.py
+      - name: Generate Visualizations
+        run: python scripts/visualization.py
+      - name: Benchmark Transformation
+        run: python benchmarks/benchmark.py
+      - name: Compress Data
+        run: python scripts/compression.py

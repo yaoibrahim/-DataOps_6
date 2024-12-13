@@ -1,0 +1,6 @@
+
+Benchmark Report
+================
+Temps d'exécution : 0.0000 secondes
+Utilisation mémoire : 63.49 Mo
+Utilisation CPU : 0.00 %

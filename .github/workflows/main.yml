@@ -1,0 +1,65 @@
+name: DataOps Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  # Job to fetch job data from API, transform, visualize, and compress
+  data_pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Step 2: Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install pandas matplotlib requests psutil pyarrow
+
+      # Step 4: Fetch data from the API and save as JSON
+      - name: Fetch Job Data from API
+        run: python scripts/api_job_search.py
+
+      # Step 5: Benchmark the data transformation process
+      - name: Run Data Benchmark
+        run: python scripts/benchmark.py
+
+      # Step 6: Compress the data into Parquet format
+      - name: Compress Data to Parquet
+        run: python scripts/compression.py
+
+      # Step 7: Generate Visualizations (Charts and Reports)
+      - name: Generate Data Visualizations
+        run: python scripts/data_visualization.py
+
+      # Step 8: Upload benchmark report as artifact
+      - name: Upload Benchmark Report
+        uses: actions/upload-artifact@v3
+        with:
+          name: benchmark-report
+          path: reports/benchmark_report.txt
+
+      # Step 9: Upload the compressed Parquet file as artifact
+      - name: Upload Compressed Data
+        uses: actions/upload-artifact@v3
+        with:
+          name: compressed-data
+          path: compressed/job_results.parquet
+
+      # Step 10: Upload the visualization report as artifact
+      - name: Upload Visualization Report
+        uses: actions/upload-artifact@v3
+        with:
+          name: visualization-report
+          path: reports/job_report.html
